@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AN0N1M0Br
 - 👀 I’m interested in aprende  Programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Linguagem C#
+- 💞️ I’m looking to collaborate on Por aqui mesmo
 - 📫 How to reach me ...
 
 <!---
